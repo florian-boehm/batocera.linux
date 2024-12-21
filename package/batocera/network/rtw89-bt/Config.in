@@ -1,0 +1,10 @@
+comment "rtw89-bt needs a Linux kernel to be built"
+	depends on !BR2_LINUX_KERNEL
+
+config BR2_PACKAGE_RTW89_BT
+	bool "rtw89-bt"
+	depends on BR2_LINUX_KERNEL
+	help
+	  Driver for Realtek 8852xx bluetooth devices
+	  
+	  https://github.com/lwfinger/rtw89-bt
