@@ -3600,7 +3600,7 @@ msgctxt "game_options"
 msgid "Bicubic"
 msgstr "バイキュービック"
 
-#. TRANSLATION: bigpemu, cemu, duckstation, libretro/duckstation, libretro/parallel_n64, ...
+#. TRANSLATION: bigpemu, cemu, drastic, duckstation, libretro/duckstation, ...
 msgctxt "game_options"
 msgid "Bilinear"
 msgstr "バイリニア"
@@ -6106,7 +6106,7 @@ msgctxt "game_options"
 msgid "ENABLE BOOT ANIMATION"
 msgstr "ブートアニメを有効"
 
-#. TRANSLATION: dolphin, melonds
+#. TRANSLATION: dolphin, duckstation, melonds
 msgctxt "game_options"
 msgid "ENABLE CHEATS"
 msgstr "チートを有効"
@@ -6578,6 +6578,11 @@ msgid ""
 msgstr ""
 "ドリームキャスト D.S.P.を有効にします(より正確な音声出力)高速システムにのみ推"
 "奨"
+
+#. TRANSLATION: duckstation
+msgctxt "game_options"
+msgid "Enable the cheat list (if available)."
+msgstr ""
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
@@ -7954,6 +7959,11 @@ msgstr "GBC - Dark Green"
 
 #. TRANSLATION: libretro/gambatte
 msgctxt "game_options"
+msgid "GBC - Game Specific"
+msgstr ""
+
+#. TRANSLATION: libretro/gambatte
+msgctxt "game_options"
 msgid "GBC - Grayscale"
 msgstr "GBC - Grayscale"
 
@@ -8709,6 +8719,11 @@ msgstr "映像品質"
 msgctxt "game_options"
 msgid "IMAGE READER"
 msgstr "イメージリーダー"
+
+#. TRANSLATION: drastic
+msgctxt "game_options"
+msgid "IMAGE SCALING"
+msgstr ""
 
 #. TRANSLATION: libretro/kronos
 msgctxt "game_options"
@@ -10677,6 +10692,11 @@ msgctxt "game_options"
 msgid "Nearest-Neighbor"
 msgstr "最近傍"
 
+#. TRANSLATION: drastic
+msgctxt "game_options"
+msgid "Nearest-neighbor"
+msgstr ""
+
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
 msgid ""
@@ -10891,7 +10911,7 @@ msgctxt "game_options"
 msgid "OFF (Default)"
 msgstr "使用しない (標準)"
 
-#. TRANSLATION: flycast, libretro/mame, mame
+#. TRANSLATION: libretro/flycast, libretro/mame, mame
 msgctxt "game_options"
 msgid "OFF-SCREEN RELOAD BUTTON"
 msgstr "画面外射撃リロードの代替えボタン"
@@ -13425,7 +13445,7 @@ msgctxt "game_options"
 msgid "Set game audio level gain in dB."
 msgstr "ゲーム音声レベルのゲイン(dB)を設定します"
 
-#. TRANSLATION: flycast, libretro/mame, mame
+#. TRANSLATION: libretro/flycast, libretro/mame, mame
 msgctxt "game_options"
 msgid "Set gun button 2 to reload."
 msgstr "画面外射撃の代わりに銃ボタン2をリロードに設定します"
@@ -14391,6 +14411,13 @@ msgstr "スイスフランス語 (ch)"
 msgctxt "game_options"
 msgid "Swiss German (ch)"
 msgstr "スイスドイツ語 (ch)"
+
+#. TRANSLATION: drastic
+msgctxt "game_options"
+msgid ""
+"Switches between smooth (Bilinear) and sharp (Nearest Neighbor) image "
+"scaling."
+msgstr ""
 
 #. TRANSLATION: bigpemu
 msgctxt "game_options"

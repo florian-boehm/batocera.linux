@@ -3613,7 +3613,7 @@ msgctxt "game_options"
 msgid "Bicubic"
 msgstr "Bicúbico"
 
-#. TRANSLATION: bigpemu, cemu, duckstation, libretro/duckstation, libretro/parallel_n64, ...
+#. TRANSLATION: bigpemu, cemu, drastic, duckstation, libretro/duckstation, ...
 msgctxt "game_options"
 msgid "Bilinear"
 msgstr "Bilinear"
@@ -4708,17 +4708,17 @@ msgstr ""
 #. TRANSLATION: x16emu
 msgctxt "game_options"
 msgid "Change image scaling algorithm quality."
-msgstr "Altere a qualidade do algoritmo de dimensionamento da imagem."
+msgstr "Alterar a qualidade do algoritmo da escala da imagem."
 
 #. TRANSLATION: amiberry
 msgctxt "game_options"
 msgid "Change pixel scaling and filtering method."
-msgstr "Altere a escala de pixels e o método de filtragem."
+msgstr "Alterar a escala de pixels e o método de filtragem."
 
 #. TRANSLATION: dolphin
 msgctxt "game_options"
 msgid "Change the Gamecube system language."
-msgstr "Altere o idioma do sistema Gamecube."
+msgstr "Alterar o idioma do sistema Gamecube."
 
 #. TRANSLATION: xenia, xenia-canary
 msgctxt "game_options"
@@ -4747,7 +4747,7 @@ msgstr ""
 #. TRANSLATION: bigpemu, cannonball, cemu, duckstation, libretro/vice_x128, ...
 msgctxt "game_options"
 msgid "Change the output resolution ratio."
-msgstr "Altere a taxa de resolução de saída."
+msgstr "Alterar a taxa de resolução de saída."
 
 #. TRANSLATION: supermodel
 msgctxt "game_options"
@@ -6150,7 +6150,7 @@ msgctxt "game_options"
 msgid "ENABLE BOOT ANIMATION"
 msgstr "ATIVAR ANIMAÇÃO DE INICIALIZAÇÃO"
 
-#. TRANSLATION: dolphin, melonds
+#. TRANSLATION: dolphin, duckstation, melonds
 msgctxt "game_options"
 msgid "ENABLE CHEATS"
 msgstr "ATIVAR CÓDIGOS"
@@ -6631,6 +6631,11 @@ msgid ""
 msgstr ""
 "Ativa o Processador de Áudio Digital (DSP) da Dreamcast para um som mais "
 "preciso. Recomendado apenas para sistemas rápidos."
+
+#. TRANSLATION: duckstation
+msgctxt "game_options"
+msgid "Enable the cheat list (if available)."
+msgstr "Ativar a lista de cheats (se disponível)."
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
@@ -8018,6 +8023,11 @@ msgstr "GBC - Verde Escuro"
 
 #. TRANSLATION: libretro/gambatte
 msgctxt "game_options"
+msgid "GBC - Game Specific"
+msgstr "GBC - Específico do jogo"
+
+#. TRANSLATION: libretro/gambatte
+msgctxt "game_options"
 msgid "GBC - Grayscale"
 msgstr "GBC - Tons de cinza"
 
@@ -8778,6 +8788,11 @@ msgstr "QUALIDADE DE IMAGEM"
 msgctxt "game_options"
 msgid "IMAGE READER"
 msgstr "LEITOR DE IMAGEM"
+
+#. TRANSLATION: drastic
+msgctxt "game_options"
+msgid "IMAGE SCALING"
+msgstr "ESCALA DE IMAGEM"
 
 #. TRANSLATION: libretro/kronos
 msgctxt "game_options"
@@ -10769,7 +10784,12 @@ msgstr "Amostragem de pixel mais próximo"
 #. TRANSLATION: duckstation
 msgctxt "game_options"
 msgid "Nearest-Neighbor"
-msgstr "Nearest-Neighbor"
+msgstr "Nearest-neighbor"
+
+#. TRANSLATION: drastic
+msgctxt "game_options"
+msgid "Nearest-neighbor"
+msgstr "Nearest-neighbor"
 
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
@@ -10987,7 +11007,7 @@ msgctxt "game_options"
 msgid "OFF (Default)"
 msgstr "DESLIGADO (Predefinição)"
 
-#. TRANSLATION: flycast, libretro/mame, mame
+#. TRANSLATION: libretro/flycast, libretro/mame, mame
 msgctxt "game_options"
 msgid "OFF-SCREEN RELOAD BUTTON"
 msgstr "BOTÃO DE RECARGA FORA DO ECRÃ"
@@ -13554,7 +13574,7 @@ msgctxt "game_options"
 msgid "Set game audio level gain in dB."
 msgstr "Define o ganho do nível de audio do jogo em dB."
 
-#. TRANSLATION: flycast, libretro/mame, mame
+#. TRANSLATION: libretro/flycast, libretro/mame, mame
 msgctxt "game_options"
 msgid "Set gun button 2 to reload."
 msgstr "Defina o botão 2 da pistola para recarregar."
@@ -14533,6 +14553,15 @@ msgstr "Francês Suíço (ch)"
 msgctxt "game_options"
 msgid "Swiss German (ch)"
 msgstr "Alemão Suíço (ch)"
+
+#. TRANSLATION: drastic
+msgctxt "game_options"
+msgid ""
+"Switches between smooth (Bilinear) and sharp (Nearest Neighbor) image "
+"scaling."
+msgstr ""
+"Alternar entre imagem suave (bilinear) e nítida (vizinho mais próximo) "
+"escala."
 
 #. TRANSLATION: bigpemu
 msgctxt "game_options"
@@ -15584,8 +15613,8 @@ msgctxt "game_options"
 msgid ""
 "Use L2/R2 for Brake/Accel and L1/R1 or R-stick Up/Down for Shift Up/Down."
 msgstr ""
-"Utilizar L2/R2 para Travar/Acelerar e L1/R1 ou Analógico Direito para Cima/Baixo"
-"para Aumentar/Reduzir a Mudança."
+"Utilizar L2/R2 para Travar/Acelerar e L1/R1 ou Analógico Direito para Cima/"
+"Baixopara Aumentar/Reduzir a Mudança."
 
 #. TRANSLATION: libretro/mame, libretro/mame, libretro/mame, libretro/mame, libretro/mame, ...
 msgctxt "game_options"
@@ -16839,4 +16868,3 @@ msgstr "yape-pal"
 msgctxt "game_options"
 msgid "yellow/blue"
 msgstr "amarelo/azul"
-

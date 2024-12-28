@@ -3608,7 +3608,7 @@ msgctxt "game_options"
 msgid "Bicubic"
 msgstr "Bicubico"
 
-#. TRANSLATION: bigpemu, cemu, duckstation, libretro/duckstation, libretro/parallel_n64, ...
+#. TRANSLATION: bigpemu, cemu, drastic, duckstation, libretro/duckstation, ...
 msgctxt "game_options"
 msgid "Bilinear"
 msgstr "Bilineare"
@@ -4733,8 +4733,8 @@ msgid ""
 "Change the game's language. Game files require the supported language "
 "strings in the .pk4 files."
 msgstr ""
-"Cambia la lingua del gioco. Sono necessari i file che supportano le stringhe"
-"lunguistiche nei files .pk4."
+"Cambia la lingua del gioco. Sono necessari i file che supportano le "
+"stringhelunguistiche nei files .pk4."
 
 #. TRANSLATION: bigpemu, cannonball, cemu, duckstation, libretro/vice_x128, ...
 msgctxt "game_options"
@@ -6138,7 +6138,7 @@ msgctxt "game_options"
 msgid "ENABLE BOOT ANIMATION"
 msgstr "ABILITA ANIMAZIONE DI AVVIO"
 
-#. TRANSLATION: dolphin, melonds
+#. TRANSLATION: dolphin, duckstation, melonds
 msgctxt "game_options"
 msgid "ENABLE CHEATS"
 msgstr "ABILITA CHEATS"
@@ -6614,6 +6614,11 @@ msgid ""
 msgstr ""
 "Abilita il DSP Dreamcast per un audio accurato. Raccomandato solo per "
 "sistemi veloci."
+
+#. TRANSLATION: duckstation
+msgctxt "game_options"
+msgid "Enable the cheat list (if available)."
+msgstr "Abilita lista cheat (se disponibile)."
 
 #. TRANSLATION: vpinball
 msgctxt "game_options"
@@ -8007,6 +8012,11 @@ msgstr "GBC - Verde Scuro"
 
 #. TRANSLATION: libretro/gambatte
 msgctxt "game_options"
+msgid "GBC - Game Specific"
+msgstr "GBC - Gioco Specifico"
+
+#. TRANSLATION: libretro/gambatte
+msgctxt "game_options"
 msgid "GBC - Grayscale"
 msgstr "GBC - Scala di grigi"
 
@@ -8761,6 +8771,11 @@ msgstr "QUALITA' IMMAGINE"
 msgctxt "game_options"
 msgid "IMAGE READER"
 msgstr "LETTORE IMMAGINI"
+
+#. TRANSLATION: drastic
+msgctxt "game_options"
+msgid "IMAGE SCALING"
+msgstr "DIMENSIONAMENTO IMMAGINE"
 
 #. TRANSLATION: libretro/kronos
 msgctxt "game_options"
@@ -10750,6 +10765,11 @@ msgctxt "game_options"
 msgid "Nearest-Neighbor"
 msgstr "Nearest-Neighbor"
 
+#. TRANSLATION: drastic
+msgctxt "game_options"
+msgid "Nearest-neighbor"
+msgstr "Nearest-neighbor"
+
 #. TRANSLATION: pcsx2
 msgctxt "game_options"
 msgid ""
@@ -10965,7 +10985,7 @@ msgctxt "game_options"
 msgid "OFF (Default)"
 msgstr "OFF (Default)"
 
-#. TRANSLATION: flycast, libretro/mame, mame
+#. TRANSLATION: libretro/flycast, libretro/mame, mame
 msgctxt "game_options"
 msgid "OFF-SCREEN RELOAD BUTTON"
 msgstr "BOTTONE PER RICARICARE FUORI-SCHERMO"
@@ -13526,7 +13546,7 @@ msgctxt "game_options"
 msgid "Set game audio level gain in dB."
 msgstr "Imposta il guadagno audio in dB."
 
-#. TRANSLATION: flycast, libretro/mame, mame
+#. TRANSLATION: libretro/flycast, libretro/mame, mame
 msgctxt "game_options"
 msgid "Set gun button 2 to reload."
 msgstr "Imposta il bottone 2 della pistola per ricaricare."
@@ -14503,6 +14523,15 @@ msgstr "Svizzero Francese (ch)"
 msgctxt "game_options"
 msgid "Swiss German (ch)"
 msgstr "Svizzero Tedesco (ch)"
+
+#. TRANSLATION: drastic
+msgctxt "game_options"
+msgid ""
+"Switches between smooth (Bilinear) and sharp (Nearest Neighbor) image "
+"scaling."
+msgstr ""
+"Cambia tra ridimensionamento immagine smooth (Bilinear) e sharp"
+"(Nearest Neighbor)."
 
 #. TRANSLATION: bigpemu
 msgctxt "game_options"
